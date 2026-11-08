@@ -24,7 +24,7 @@ u1.valorar(c1, 8)
 u2.valorar(c2, 9)
 u3.valorar(c3, 10)
 
-print("---Estadísticas---")
+
 total_entradas = 0
 total_pista = 0
 total_grada = 0
